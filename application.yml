@@ -53,5 +53,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://${EUREKA_1_PORT_8761_TCP_ADDR:localhost}:8761/eureka/
-data:hahahah
+data: hahahah
 
